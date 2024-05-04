@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **helltaker_ia02** project contains various utilities for managing Helltaker grids, along with examples. This project will be updated over time. If you have any suggestions or custom grid designs, please feel free to submit them to us at [sylvain.lagrue@hds.utc.fr](mailto:sylvain.lagrue@hds.utc.fr).
+The **helltaker_ia02** project contains various utilities for managing Helltaker grids, along with examples.
 
 ## Level Structure
 
